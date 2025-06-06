@@ -1,5 +1,3 @@
 # Practical Binary Analysis
 
-```
-I can't thank the author enough for creating this outstanding book. Below is my attempt to learn C/C++ and the efforts to reverse engineer the software I make.
-```
+I can't thank the author enough for creating this outstanding book. Below is my attempt to learn compiled languages and the necessary skills to to reverse engineer the software I make.
